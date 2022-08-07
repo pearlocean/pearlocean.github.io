@@ -48,6 +48,12 @@ border-radius:5px;
 color:#fff;
 text-decoration:none
 }
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 /* ===================================
 基本
