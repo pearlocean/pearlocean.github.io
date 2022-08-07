@@ -39,7 +39,6 @@ color:#fff
 }
 #contents a{
 color:#d79f8a;
-text-decoration:underline;
 transition:.6s
 }
 #contents a:not(.bg-none):hover{
